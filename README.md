@@ -43,6 +43,7 @@ spring.h2.console.path=/h2-console
 
 # Puerto del servidor
 server.port=8080
+```properties
 
 ---
 
