@@ -56,11 +56,3 @@ com.utn.productos
  ├── repository        # Interfaces JpaRepository
  ├── service           # Lógica de negocio
  └── ProductosApiApplication.java
-
----
-
-## Autor
-Julián Valdez
-📚 3° Año - Ingeniería en Sistemas
-🏫 Universidad Tecnológica Nacional (UTN)
-💻 Materia: Desarrollo de Software
