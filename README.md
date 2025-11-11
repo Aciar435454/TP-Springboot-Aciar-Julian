@@ -45,8 +45,6 @@ spring.h2.console.path=/h2-console
 server.port=8080
 ```properties
 
----
-
 ## Estructura del proyecto
 com.utn.productos
  ├── controller        # Controladores REST
