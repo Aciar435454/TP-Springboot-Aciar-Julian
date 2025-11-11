@@ -44,7 +44,9 @@ spring.h2.console.path=/h2-console
 # Puerto del servidor
 server.port=8080
 
-# Estructura del proyecto
+---
+
+## Estructura del proyecto
 com.utn.productos
  ├── controller        # Controladores REST
  ├── dto               # Clases DTO (entrada/salida)
@@ -53,6 +55,8 @@ com.utn.productos
  ├── repository        # Interfaces JpaRepository
  ├── service           # Lógica de negocio
  └── ProductosApiApplication.java
+
+---
 
 ## Autor
 Julián Valdez
